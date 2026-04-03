@@ -68,4 +68,3 @@ Me apasiona diseñar soluciones eficientes, optimizar sistemas y aplicar buenas 
 
 ---
 
-<h3 align="center">🔥 Construyendo soluciones que marcan la diferencia 🔥</h3>
