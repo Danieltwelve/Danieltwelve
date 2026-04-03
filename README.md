@@ -60,23 +60,6 @@ Me apasiona diseñar soluciones eficientes, optimizar sistemas y aplicar buenas 
   <li><strong>⚙️ Automatización de Procesos</strong><br>
   Herramientas para optimizar flujos investigativos y editoriales.</li>
 </ul>
-
----
-
-<h2>📊 Estadísticas de GitHub</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=tokyonight&hide_border=true"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-<h2>🌐 Conecta conmigo</h2>
-
 <p>
 📧 <strong>Email:</strong> dannyortega0627@gmail.com <br>
 💼 <strong>LinkedIn:</strong> www.linkedin.com/in/juanortegarojas <br>
